@@ -1,0 +1,15 @@
+{
+	"type": "SolarGenerator",
+	"name": "Large Solar Panel+",
+	"description": "Packing a more expensive and effective solar cell into a larger backplate yields significantly more power.",
+	"size": 3,
+	"hasPower": true,
+	"powerProduction": 1.2,
+	"requirements": [
+		{ "item": "copper", "amount": 250 },
+		{ "item": "titanium", "amount": 100 },
+		{ "item": "lead", "amount": 55 },
+		{ "item": "silicon", "amount": 25 }
+	],
+	"category": "power",
+}

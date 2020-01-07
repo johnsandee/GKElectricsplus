@@ -1,0 +1,14 @@
+{
+	"type": "PowerNode",
+	"name": "Power Node+",
+	"description": "Improved transmission modules with larger antennas provide a larger output and more connections over an area.",
+	"size": 1,
+	"hasPower": true,
+	"maxNodes": 35,
+	"laserRange": 8,
+	"requirements": [
+		{ "item": "copper", "amount": 5},
+		{ "item": "lead", "amount": 6 },
+	],
+	"category": "power"
+}

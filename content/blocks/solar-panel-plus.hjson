@@ -1,0 +1,14 @@
+{
+	"type": "SolarGenerator",
+	"name": "Solar Panel+",
+	"description": "By having more expensive solar cells in the solar panel, we are able to produce more power.",
+	"size": 1,
+	"hasPower": true,
+	"powerProduction": 0.13,
+	"requirements": [
+		{ "item": "copper", "amount": 50 },
+		{ "item": "lead", "amount": 20 },
+		{ "item": "graphite", "amount": 2 }
+	],
+	"category": "power",
+}

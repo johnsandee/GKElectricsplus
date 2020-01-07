@@ -1,0 +1,15 @@
+{
+	"type": "PowerNode",
+	"name": "Large Power Node+",
+	"description": "Radically improved radio frequency modules provide dramatically improved range and max connections.",
+	"size": 2,
+	"hasPower": true,
+	"maxNodes": 50,
+	"laserRange": 15,
+	"requirements": [
+		{ "item": "copper", "amount": 15},
+		{ "item": "lead", "amount": 20 },
+		{ "item": "titanium", "amount": 20 },
+	],
+	"category": "power"
+}

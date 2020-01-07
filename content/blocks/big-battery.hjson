@@ -1,0 +1,16 @@
+{
+	"type": "battery",
+	"name": "Extra Large Battery",
+	"description": "Upgraded battery technology allows for substantially upgraded capacity efficiency. 1M charge cap.",
+	"size": 3,
+	"health": 15000,
+	"category": "power",
+	"requirements": [
+		{"item": "lead", "amount": 800},
+		{"item": "titanium", "amount": 500},
+		{"item": "silicon", "amount": 200},
+		{"item": "graphite", "amount": 200},
+		{"item": "copper", "amount": 800}
+	],
+	"consumes": { "powerBuffered": 1000000 }
+}

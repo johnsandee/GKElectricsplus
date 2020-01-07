@@ -1,0 +1,14 @@
+{
+	"type": "battery",
+	"name": "Battery+",
+	"description": "A modernised battery using improved copper circuts allowing for more capacity. 12K charge cap.",
+	"size": 1,
+	"health": 120,
+	"category": "power",
+	"requirements": [
+		{"item": "lead", "amount": 50},
+		{"item": "titanium", "amount": 20},
+		{"item": "copper", "amount": 60}
+	],
+	"consumes": { "powerBuffered": 12000 }
+}

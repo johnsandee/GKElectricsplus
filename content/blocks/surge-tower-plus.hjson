@@ -1,0 +1,16 @@
+{
+	"type": "PowerNode",
+	"name": "Surge Tower+",
+	"description": "Drastically improved radios with self triangulating channels allow for a much larger service area with additional connections.",
+	"size": 2,
+	"hasPower": true,
+	"maxNodes": 4,
+	"laserRange": 50,
+	"requirements": [
+		{ "item": "copper", "amount": 30},
+		{ "item": "lead", "amount": 40 },
+		{ "item": "silicon", "amount": 25 },
+		{ "item": "surge-alloy", "amount": 20 }
+	],
+	"category": "power"
+}
