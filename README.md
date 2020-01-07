@@ -1,4 +1,4 @@
 # Gagykuns Electrics+
-**Offers a variety of electrical options.
+**Offers a variety of electrical options.**
 
-##**Textures made by Wikobob
+## **Textures made by Wikobob**
