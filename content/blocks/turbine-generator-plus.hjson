@@ -1,0 +1,31 @@
+{
+	"type": "SingleTypeGenerator",
+	"name": "Turbine Generator+",
+	"description": "Larger motors with better bearings and upgraded generator fins allow for increased productivity.",
+	"size": 2,
+	"hasPower": true,
+	"hasItems": true,
+    "heatColor": 78c8cc,
+	"itemDuration": 100,
+	"liquidCapacity": 300,
+	"powerProduction": 6.667,
+	"consumes": {
+		"items": {
+			"items": [
+				{ "item": "coal", "amount": 2 }
+			],
+			"optional": true
+		}
+		"liquid": {
+			"liquid": "water",
+			"amount": 0.2
+		}
+	},
+	"requirements": [
+		{ "item": "copper", "amount": 120 },
+		{ "item": "lead", "amount": 80 },
+        { "item": "silicon", "amount": 35 },
+		{ "item": "graphite", "amount": 35 }
+	],
+	"category": "power",
+}
