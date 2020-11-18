@@ -8,11 +8,11 @@
     "heatColor": 78c8cc,
 	"itemDuration": 100,
 	"liquidCapacity": 300,
-	"powerProduction": 6.667,
+	"powerProduction": 900.667,
 	"consumes": {
 		"items": {
 			"items": [
-				{ "item": "coal", "amount": 2 }
+				{ "item": "coal", "amount": 1 }
 			],
 			"optional": true
 		}
